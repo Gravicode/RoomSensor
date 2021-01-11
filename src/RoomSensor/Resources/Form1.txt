@@ -1,0 +1,10 @@
+<Glide Version="1.0.7">
+  <Window Name="instance115" Width="320" Height="240" BackColor="B3D9FF">
+    <TextBlock Name="instance438" X="11" Y="21" Width="80" Height="32" Alpha="255" Text="TEMP:" TextAlign="Left" TextVerticalAlign="Top" Font="7" FontColor="000000" BackColor="000000" ShowBackColor="False"/>
+    <TextBlock Name="instance1434" X="11" Y="59" Width="100" Height="32" Alpha="255" Text="HUMID:" TextAlign="Left" TextVerticalAlign="Top" Font="7" FontColor="000000" BackColor="000000" ShowBackColor="False"/>
+    <TextBlock Name="instance2650" X="11" Y="97" Width="100" Height="32" Alpha="255" Text="LIGHT:" TextAlign="Left" TextVerticalAlign="Top" Font="7" FontColor="000000" BackColor="000000" ShowBackColor="False"/>
+    <TextBlock Name="txtTemp" X="130" Y="21" Width="100" Height="32" Alpha="255" Text="0C" TextAlign="Left" TextVerticalAlign="Top" Font="7" FontColor="000000" BackColor="000000" ShowBackColor="False"/>
+    <TextBlock Name="txtHumid" X="130" Y="59" Width="100" Height="32" Alpha="255" Text="100%" TextAlign="Left" TextVerticalAlign="Top" Font="7" FontColor="000000" BackColor="000000" ShowBackColor="False"/>
+    <TextBlock Name="txtLight" X="130" Y="97" Width="100" Height="32" Alpha="255" Text="000" TextAlign="Left" TextVerticalAlign="Top" Font="7" FontColor="000000" BackColor="000000" ShowBackColor="False"/>
+  </Window>
+</Glide>

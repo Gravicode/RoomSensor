@@ -1,0 +1,8 @@
+<Glide Version="1.0.7">
+  <Window Name="instance115" Width="320" Height="240" BackColor="e2e2e2">
+    <Button Name="Btn1" X="12" Y="11" Width="290" Height="50" Alpha="255" Text="Game" Font="6" FontColor="000000" DisabledFontColor="808080" TintColor="000000" TintAmount="0"/>
+    <Button Name="Btn2" X="12" Y="65" Width="290" Height="50" Alpha="255" Text="Photo Gallery" Font="6" FontColor="000000" DisabledFontColor="808080" TintColor="000000" TintAmount="0"/>
+    <Button Name="Btn3" X="12" Y="120" Width="290" Height="50" Alpha="255" Text="My Room" Font="6" FontColor="000000" DisabledFontColor="808080" TintColor="000000" TintAmount="0"/>
+    <Button Name="Btn4" X="12" Y="175" Width="290" Height="50" Alpha="255" Text="Message" Font="6" FontColor="000000" DisabledFontColor="808080" TintColor="000000" TintAmount="0"/>
+  </Window>
+</Glide>
